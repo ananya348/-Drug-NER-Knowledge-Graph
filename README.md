@@ -9,10 +9,10 @@
 The application allows users to upload structured datasets and medical PDF documents, train a Named Entity Recognition (NER) model, extract relevant drug information, and represent relationships between entities through a knowledge graph.
 
 The goal is to make complex drug–cancer–side-effect relationships easier to explore and analyze.
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ananya348/-Drug-NER-Knowledge-Graph/main/drug.png" width="700" alt="Drug NER Knowledge Graph">
-</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ananya348/-Drug-NER-Knowledge-Graph/main/Screenshot%202026-08-20%20133311.png" width="100%" alt="Drug NER Knowledge Graph">
+</p>
 ## ✨ Features
 
 * 📊 **Excel Dataset Upload**
@@ -32,6 +32,9 @@ The goal is to make complex drug–cancer–side-effect relationships easier to 
   * Upload medical/research PDF documents.
   * Extract text for NLP processing.
   * Identify drug-related information from unstructured text.
+    <p align="center">
+  <img src="https://raw.githubusercontent.com/ananya348/-Drug-NER-Knowledge-Graph/main/drug.png" width="700" alt="Drug NER Knowledge Graph">
+</p>
 
 * 🕸️ **Knowledge Graph**
 
