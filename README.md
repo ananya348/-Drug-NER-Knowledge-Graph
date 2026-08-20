@@ -1,6 +1,9 @@
 # 💊 Drug NER + Knowledge Graph
 
 > An AI-powered application for extracting drug-related entities from medical documents and building a knowledge graph connecting drugs, drug classes, cancers, and major side effects.
+> ## 🚀 Live Demo
+
+👉 **[Try the Drug NER + Knowledge Graph App](https://ebjydzocnjnruxwibd8kjz.streamlit.app/)**
 
 ## 📌 Overview
 
