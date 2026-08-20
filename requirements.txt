@@ -1,0 +1,8 @@
+streamlit
+pandas
+spacy
+PyMuPDF
+networkx
+matplotlib
+scikit-learn
+openpyxl
